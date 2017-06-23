@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
